@@ -40,7 +40,7 @@ if not TOKEN or TOKEN == "8304268332:AAF_NolKCvIZWN1GN4tmKRpOtUwKu53SR3M": # Che
     TOKEN = "8304268332:AAF_NolKCvIZWN1GN4tmKRpOtUwKu53SR3M" # FALLBACK - Highly recommended to use .env
 
 # Optional: API Configuration
-API_BASE_URL = os.getenv('JWT_API_URL', 'https://jwt-api-ob-53-tanvir.vercel.app/token')#ƊƠƝƬ ƇӇƛƝƓЄ ƠƬӇЄƦƜƖƧЄ ЄƦƦƠƦ
+API_BASE_URL = os.getenv('JWT_API_URL', 'https://jwt-ob-53.vercel.app//token')#ƊƠƝƬ ƇӇƛƝƓЄ ƠƬӇЄƦƜƖƧЄ ЄƦƦƠƦ
 API_KEY = os.getenv('JWT_API_KEY', '@XAHAF_LEGACY')
 
 # Optional: Bot Settings
